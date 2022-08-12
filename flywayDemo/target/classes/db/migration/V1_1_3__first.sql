@@ -1,1 +1,0 @@
-alter table public.address  RENAME COLUMN  address_state TO address_state1;
